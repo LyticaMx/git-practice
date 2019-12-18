@@ -30,7 +30,7 @@ Cada desarrollador debe crearla y ponerle cualquier nombre, aquí es donde se ha
 
 #### Rama de equipo
 
-Ya están creadas, sólo podrán hacer mezclas hacia ella los líderes de equipo de Lytica, el objetivo es mezclar ahí las ramas de los desarrolladores. Tienen el prefijo *team_*
+Ya están creadas, sólo podrán hacer mezclas hacia ella los líderes de equipo de Lytica, el objetivo es mezclar ahí las ramas de los desarrolladores. Tienen el prefijo *team-*
 
 #### Rama master
 
